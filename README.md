@@ -1,7 +1,7 @@
 # Rui Esteves Inácio
 Engineer → Technical Product Marketing • Technical Writing • Agritech & Industrial Tech
 
-[CV](https://ruiestevesinacio.github.io/ruiestevesinacio/) · [LinkedIn](https://www.linkedin.com/in/ruinacio) · Email: ruinacio (replace at) example.com
+[CV](https://ruiestevesinacio.github.io/ruiestevesinacio/) · [LinkedIn](https://www.linkedin.com/in/ruinacio) · [Email](rui.e.inacio@gmail.com)
 
 ---
 
