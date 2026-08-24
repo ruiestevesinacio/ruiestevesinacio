@@ -1,4 +1,4 @@
-# Rui Esteves Inácio
+# Rui Inácio
 Technical Product Marketing Manager | Engineer Turning Complex Hardware into Clear Market Value | Horticultural Lighting, CEA & Industrial Tech
 
 [CV](https://ruiestevesinacio.github.io/ruiestevesinacio/) · [LinkedIn](https://www.linkedin.com/in/ruinacio) · [Email](rui.e.inacio@gmail.com)
@@ -23,7 +23,7 @@ This repository is the start of my professional portfolio. It will progressively
 - My online CV (linked above)
 - Project case studies (engineering & product work)
 - Technical writing and documentation samples
-- Product marketing artifacts (positioning, messaging, battlecards)
+- Product marketing artefacts (positioning, messaging, battlecards)
 - Competitive intelligence examples and market research
 - Certificates, courses, and professional development
 - Links to published work and presentations
@@ -37,7 +37,7 @@ This repository is the start of my professional portfolio. It will progressively
 - Technical doc sample — Example of product documentation or user guide (link)
 - Market analysis / Competitive framework — Example of a positioning or competitor matrix (link)
 
-(When ready, create a dedicated folder for each project with: README.md, summary, artifacts, and technical materials.)
+(When ready, create a dedicated folder for each project with: README.md, summary, artefacts, and technical materials.)
 
 ---
 
@@ -67,8 +67,8 @@ Tip: Use GitHub Pages to host polished project pages and link from this README t
 
 ## Suggested profile badges & widgets
 Add a small row of badges under your name (optional):
-- CV (link), LinkedIn badge, Location (if you want), Open to work / roles
-- GitHub-readme-stats (for GitHub activity / languages)
+- CV (link), LinkedIn badge, Location (if you want), Open to work/roles
+- GitHub-readme-stats (for GitHub activity/languages)
 Example image links (update username where needed):
 - GitHub Readme Stats: `https://github-readme-stats.vercel.app/api?username=ruie...`  
 - Top Languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=ruie...`
@@ -84,7 +84,7 @@ Example image links (update username where needed):
 4. Add a photo and simple header banner for visual polish (upload in repo or use Gravatar/profile image).
 5. Pin the most relevant repos on your GitHub profile (projects, docs, demo repos).
 6. Use GitHub Pages to host a portfolio site that links from the README and your LinkedIn.
-7. Add short case study templates so each project you add follows the same structure (problem → role → approach → outcome → artifacts).
+7. Add short case study templates so each project you add follows the same structure (problem → role → approach → outcome → artefacts).
 
 ---
 
