@@ -37,7 +37,7 @@ This profile is being developed as a professional portfolio. It will progressive
 
 Selected links
 
-· CV: https://ruiestevesinacio.github.io
+· CV: # https://ruiestevesinacio.github.io
 
 · LinkedIn: www.linkedin.com/in/ruinacio
 
