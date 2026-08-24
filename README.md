@@ -1,7 +1,6 @@
 # Rui Inácio
 
-[![CV](https://img.shields.io/badge/CV-Online-brightgreen?logo=readthedocs)](https://ruiestevesinacio.github.io/ruiestevesinacio/) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruinacio)
-[Email](rui.e.inacio@gmail.com)  
+[![CV](https://img.shields.io/badge/CV-Online-brightgreen?logo=readthedocs)](https://ruiestevesinacio.github.io/ruiestevesinacio/)   ·   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruinacio)   ·   [Email](rui.e.inacio@gmail.com)  
 
 
 Technical Product Marketing Manager | Engineer Turning Complex Hardware into Clear Market Value | Horticultural Lighting, CEA & Industrial Tech
