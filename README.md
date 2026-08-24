@@ -1,12 +1,12 @@
 # Rui Inácio
 
-[![CV](https://img.shields.io/badge/CV-Online-brightgreen?logo=readthedocs)](https://ruiestevesinacio.github.io/ruiestevesinacio/)   ·   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruinacio)   ·   [![Email](https://img.shields.io/badge/Email-rui.e.inacio%40gmail.com-orange?logo=gmail&logoColor=white)](mailto:rui.e.inacio@gmail.com)  
-![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruestevesinacio&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruestevesinacio&layout=compact&theme=default)
 
 Technical Product Marketing Manager | Engineer Turning Complex Hardware into Clear Market Value | Horticultural Lighting, CEA & Industrial Tech
 
-[CV](https://ruiestevesinacio.github.io/ruiestevesinacio/) · [LinkedIn](https://www.linkedin.com/in/ruinacio) · [Email](mailto:rui.e.inacio@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Online-brightgreen?logo=readthedocs)](https://ruiestevesinacio.github.io/ruiestevesinacio/)   ·   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruinacio)   ·   [![Email](https://img.shields.io/badge/Email-rui.e.inacio%40gmail.com-orange?logo=gmail&logoColor=white)](mailto:rui.e.inacio@gmail.com)  
+
+![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruestevesinacio&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruestevesinacio&layout=compact&theme=default)
 
 ---
 
