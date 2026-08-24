@@ -1,5 +1,5 @@
 # Rui Esteves Inácio
-Engineer → Technical Product Marketing • Technical Writing • Agritech & Industrial Tech
+Technical Product Marketing Manager | Engineer Turning Complex Hardware into Clear Market Value | Horticultural Lighting, CEA & Industrial Tech
 
 [CV](https://ruiestevesinacio.github.io/ruiestevesinacio/) · [LinkedIn](https://www.linkedin.com/in/ruinacio) · [Email](rui.e.inacio@gmail.com)
 
