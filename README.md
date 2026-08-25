@@ -12,7 +12,7 @@
 
 I'm an engineer who moved into Product Marketing, and I still think like both. That combination lets me sit between R&D, sales and customers, translating deep technical detail (photon efficacy, spectral design, thermal performance, control systems) into positioning, messaging and documentation that commercial teams can actually use.
 
-My focus is horticultural LED lighting and CEA, an industry where the product *is* the technical spec sheet, and where marketing that doesn't hold up under an engineer's scrutiny doesn't hold up at all. I've worked on both sides of that line: building the hardware, and explaining why it matters to the people buying it.
+My focus is horticultural LED lighting and CEA, an industry where the product is the technical spec sheet, and where marketing that doesn't hold up under an engineer's scrutiny doesn't hold up at all. I've worked on both sides of that line: building the hardware, and explaining why it matters to the people buying it.
 
 **What I do:**
 - Translate technical specifications into buyer-relevant value propositions
@@ -36,7 +36,7 @@ My focus is horticultural LED lighting and CEA, an industry where the product *i
 
 ## Portfolio
 
-This profile is the front door to a growing portfolio. Sections below will fill in as work is published — check back, or follow along on [LinkedIn](https://www.linkedin.com/in/ruinacio).
+This profile is the front door to a growing portfolio. Sections below will fill in as work is published; check back, or follow along on [LinkedIn](https://www.linkedin.com/in/ruinacio).
 
 - **Product marketing** - positioning frameworks, messaging architecture, battlecards *(coming soon)*
 - **Competitive intelligence** - market and competitor analysis examples *(coming soon)*
