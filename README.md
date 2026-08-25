@@ -5,8 +5,9 @@ Technical Product Marketing Manager | Engineer Turning Complex Hardware into Cle
 
 [![CV](https://img.shields.io/badge/CV-Online-brightgreen?logo=readthedocs)](https://ruiestevesinacio.github.io/ruiestevesinacio/)   ·   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruinacio)   ·   [![Email](https://img.shields.io/badge/Email-rui.e.inacio%40gmail.com-orange?logo=gmail&logoColor=white)](mailto:rui.e.inacio@gmail.com)  
 
-![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiestevesinacio)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiestevesinacio )
+[![Rui's GitHub stats](https://github-stats-extended.vercel.app/api?username=ruiestevesinacio)](https://github.com/stats-organization/github-stats-extended)
+![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiestevesinacio&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiestevesinacio&layout=compact&theme=default)
 
 
 ---
