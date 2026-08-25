@@ -38,12 +38,12 @@ My focus is horticultural LED lighting and CEA, an industry where the product *i
 
 This profile is the front door to a growing portfolio. Sections below will fill in as work is published — check back, or follow along on [LinkedIn](https://www.linkedin.com/in/ruinacio).
 
-- **Product marketing** — positioning frameworks, messaging architecture, battlecards *(coming soon)*
-- **Competitive intelligence** — market and competitor analysis examples *(coming soon)*
-- **Technical writing** — documentation and specification samples *(coming soon)*
-- **Engineering** — hardware and systems projects *(coming soon)*
-- **SEO / AEO / GEO** — discoverability case studies *(coming soon)*
-- **Speaking & publications** — articles, talks, certifications *(coming soon)*
+- **Product marketing** - positioning frameworks, messaging architecture, battlecards *(coming soon)*
+- **Competitive intelligence** - market and competitor analysis examples *(coming soon)*
+- **Technical writing** - documentation and specification samples *(coming soon)*
+- **Engineering** - hardware and systems projects *(coming soon)*
+- **SEO / AEO / GEO** - discoverability case studies *(coming soon)*
+- **Speaking & publications** - articles, talks, certifications *(coming soon)*
 
 ---
 
