@@ -1,6 +1,6 @@
 # Hi, I'm Rui Inácio 👋
 
-**Technical Product Marketing Manager** turning complex hardware into clear market value — specialising in horticultural lighting, controlled environment agriculture (CEA) and industrial technology.
+**Technical Product Marketing Manager** turning complex hardware into clear market value - specialising in horticultural lighting, controlled environment agriculture (CEA) and industrial technology.
 
 [![CV](https://img.shields.io/badge/CV-View_Online-brightgreen?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ruiestevesinacio.github.io/ruiestevesinacio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruinacio)
@@ -10,7 +10,7 @@
 
 ## About
 
-I'm an engineer who moved into Product Marketing, and I still think like both. That combination lets me sit between R&D, sales and customers — translating deep technical detail (photon efficacy, spectral design, thermal performance, control systems) into positioning, messaging and documentation that commercial teams can actually use.
+I'm an engineer who moved into Product Marketing, and I still think like both. That combination lets me sit between R&D, sales and customers, translating deep technical detail (photon efficacy, spectral design, thermal performance, control systems) into positioning, messaging and documentation that commercial teams can actually use.
 
 My focus is horticultural LED lighting and CEA, an industry where the product *is* the technical spec sheet, and where marketing that doesn't hold up under an engineer's scrutiny doesn't hold up at all. I've worked on both sides of that line: building the hardware, and explaining why it matters to the people buying it.
 
